@@ -1,0 +1,29 @@
+.reset{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    border: none;
+    background-color: blue;
+    color: #fff;
+    border-radius: 20px;
+}
+.btn1{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    border: 1px solid #000;
+    background-color: rgb(41, 41, 233);
+    color: #fff;
+    border-radius: 20px; 
+}
+
+
+.form_enfant{
+  
+   display: none;
+}
+.form_enfant.active{
+    display: block;
+}
+
+/*-------------------------------*/
